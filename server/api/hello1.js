@@ -1,6 +1,6 @@
 export default defineEventHandler(() => {
   return {
     ok: true,
-    data: 'Hello World!'
+    data: 'Hello World1!'
   }
 })
